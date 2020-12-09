@@ -1,2 +1,4 @@
-# ML-Finance
-Applied ML in Finance
+# ML-Personal Notes
+- Pandas & function
+- classification
+- Regression
