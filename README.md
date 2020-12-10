@@ -1,5 +1,5 @@
 # ML-Personal Notes
 - python-(Pandas & function)
 - Supervised learning 
-  - classification (Iris and Boston Digits dataset) 
+  - classification (Iris and Digits dataset) 
   - Regression (Boston Housing and Gapminder)
