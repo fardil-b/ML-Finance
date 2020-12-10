@@ -7,3 +7,9 @@
   - Cifar
   - MNIST
   - VGG16
+- SAMHDD (Statistical Analysis of Massive and High Dimensional Data)
+  - KNN
+  - logistic regression
+  - LDA
+
+  
