@@ -1,4 +1,6 @@
-# ML-Personal Notes
+# ML-Notes 
+#### __From different sources__
+
 - python-(Pandas & function)
 - Supervised learning 
   - classification (Iris and Digits dataset) 
